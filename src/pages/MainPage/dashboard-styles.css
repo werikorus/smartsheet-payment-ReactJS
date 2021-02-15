@@ -1,0 +1,7 @@
+.main-page-content{
+  width: 100vw;
+  height: 100vh;
+  display: grid ;
+  flex-direction: column;
+}
+

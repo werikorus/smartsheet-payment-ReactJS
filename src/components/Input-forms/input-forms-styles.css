@@ -1,0 +1,19 @@
+.input-block {
+  position: relative;
+}
+ .input-block label {
+  font-size: 1.1rem;
+  /* color: white; */
+}
+.input-block input {
+  display: grid;
+  height: 2.5rem;
+  width: 11rem;
+  border-radius: 0.7rem;
+  background: whitesmoke;
+  border: none;
+  outline: 0;
+  font: 1.3rem rgb(71, 71, 71) Poppins;
+  color: var(--color-text-input);
+  padding: 0 15px 0 15px;
+}

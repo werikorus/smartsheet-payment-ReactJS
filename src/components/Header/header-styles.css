@@ -1,0 +1,16 @@
+#header-content{
+  height: 4rem;
+  width: 100%;
+  background-color:white;
+  position: fixed;
+  box-shadow: 1px 1px 8px  rgb(83, 83, 83);
+  display: flex;
+}
+
+h2{
+  color:rgb(67, 148, 255);
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  margin-left: 30px;
+}

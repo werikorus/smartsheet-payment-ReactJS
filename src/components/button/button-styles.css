@@ -1,0 +1,19 @@
+.btn-globals {
+  width: 7rem;
+  height: 2.3rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: solid rgb(255, 255, 255) 1px;
+  color: white;
+  text-decoration: none;
+  border-radius: 19px;
+  transition: background-color 0.4s;
+}
+
+.btn-globals:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(17, 120, 255);
+  border: solid white 1px;
+
+}

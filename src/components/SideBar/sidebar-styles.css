@@ -1,0 +1,24 @@
+#sidebar{
+  width: 4rem;
+  height: 100vh;
+  background-color: rgb(67, 148, 255);
+  border-radius: 0px 19px 19px 0px;
+  position: fixed;
+  display: grid;
+  justify-items: center;
+  border:  none;
+  transition: width 0.3s;
+}
+#sidebar:hover{
+  width: 10.5rem;
+}
+
+#header{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.content{
+  align-self: flex-start;
+  margin-bottom: 100%;
+}
