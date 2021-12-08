@@ -7,6 +7,7 @@ function MainFrame(){
    <div id="page-frame">     
      <section className="frame-content">
        <br/>
+       <h1>Bem vindo!</h1>
        <Workers />
      </section>
    </div>

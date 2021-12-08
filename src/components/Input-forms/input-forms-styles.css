@@ -3,7 +3,7 @@
 }
  .input-block label {
   font-size: 1.1rem;
-  /* color: white; */
+  color: black;
 }
 .input-block input {
   display: grid;
@@ -15,5 +15,6 @@
   outline: 0;
   font: 1.3rem rgb(71, 71, 71) Poppins;
   color: var(--color-text-input);
-  padding: 0 15px 0 15px;
+  box-shadow: 1px 0.9px 1px  rgb(83, 83, 83);
+  margin: 0.3rem;
 }

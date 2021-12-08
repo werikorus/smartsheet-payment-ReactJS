@@ -14,23 +14,27 @@ function Sidebar(){
          <div className="content">
             <Button 
             label="Cadastros"
-            destiny="dashboard/"
+            destiny="Cadastros/"
             />
             <br />
             <Button 
             label="Tabelas"
+            destiny="tabelass"
             />
             <br />
             <Button 
               label="Movimento"
+              destiny="movimento"
             />
             <br />
             <Button 
               label="Ponto"
+              destiny="registro-ponto"
             />
             <br />
             <Button 
               label="Relatórios"
+              destiny="relatorioss"
             />
             <br />
             <br />
